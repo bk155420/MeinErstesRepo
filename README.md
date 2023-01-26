@@ -4,5 +4,5 @@
 Das Ziel der kleinen App ist 
 
 ## Autoren
-Ich und 
-die GW22A
+* Ich und 
+* die GW22A
