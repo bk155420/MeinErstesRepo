@@ -1,2 +1,8 @@
 # MeinErstesRepo
-Ich habe noch nie solch eine Frechheit erlebt !
+
+## Ziel
+Das Ziel der kleinen App ist 
+
+## Autoren
+Ich und 
+die GW22A
