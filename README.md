@@ -1,6 +1,6 @@
 # MeinErstesRepo
 
-<h3>Ziel<h3>
+<h3>Ziel/<h3>
 Das Ziel der kleinen App ist 
 
 ## Autoren
