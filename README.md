@@ -1,8 +1,6 @@
 # MeinErstesRepo
 
-<h1>This is heading 1</h1>
-
-## Ziel
+<h3>Ziel<h3>
 Das Ziel der kleinen App ist 
 
 ## Autoren
