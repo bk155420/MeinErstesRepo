@@ -3,5 +3,6 @@
 <h3>Ziel</h3>
 Das Ziel der kleinen App ist es Preise Akkurat wiederzugeben.
 <figure>
-![image](https://user-images.githubusercontent.com/123622082/217746776-94c91c40-cd26-45a5-8f3a-7379f13bb31f.png)
+<img src="https://s-wiki.cs.money/images/12607.png" />
+
 <figcaption> Hier
